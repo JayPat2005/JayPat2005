@@ -18,6 +18,3 @@ Student • Developer • Visual Creator
 - Algorithms & Data Structures
 - Software Engineering
 - Visual Media & Content Creation
-
-## GitHub Stats
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayPat2005&show_icons=true&theme=dark)
