@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jay Patel 👋
+Student • Developer • Visual Creator
 
-<!--
-**JayPat2005/JayPat2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Development Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Here are some ideas to get you started:
+## Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Interests
+- Systems Programming
+- Algorithms & Data Structures
+- Software Engineering
+- Visual Media & Content Creation
+
+## GitHub Stats
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayPat2005&show_icons=true&theme=dark)
