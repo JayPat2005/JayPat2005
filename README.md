@@ -4,14 +4,6 @@ Hi, I’m Jay Patel — a Computer Science & Electrical Engineering student at U
 
 This GitHub showcases my projects in programming, development, and applied systems. Each project reflects different areas of my experience, from backend development and software design to hardware-integrated systems and technical problem solving.
 
-## 📂 Table of Contents
-- [Development Platforms](#development-platforms-)
-- [Programming Languages](#programming-languages-)
-- [Web Server Specializations](#web-server-specializations-)
-- [Application Specializations](#application-specializations-)
-- [Frameworks, Platforms & Libraries](#frameworks-platforms--libraries-)
-- [Projects](#projects)
-
 ## Development Platforms 💻
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
