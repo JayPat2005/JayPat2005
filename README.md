@@ -1,5 +1,17 @@
 # Welcome to my GitHub! 👋
 
+Hi, I’m Jay Patel — a Computer Science & Electrical Engineering student at UIC and a full-stack developer. I build projects that combine software, problem-solving, and real-world applications, with experience in web development, cloud tools, and system-level programming.
+
+This GitHub showcases my projects in programming, development, and applied systems. Each project reflects different areas of my experience, from backend development and software design to hardware-integrated systems and technical problem solving.
+
+## 📂 Table of Contents
+- [Development Platforms](#development-platforms-)
+- [Programming Languages](#programming-languages-)
+- [Web Server Specializations](#web-server-specializations-)
+- [Application Specializations](#application-specializations-)
+- [Frameworks, Platforms & Libraries](#frameworks-platforms--libraries-)
+- [Projects](#projects)
+
 ## Development Platforms 💻
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -27,3 +39,13 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Projects
+
+### PingPongArm
+A Python-based robotic ping pong project that uses ball tracking, motion prediction, and trajectory visualization to analyze ball movement in real time. This project combines software, physics, and hardware integration to create a system that can predict and respond to incoming shots.
+
+**Key features:**
+- Real-time ball tracking using Python
+- Trajectory prediction and motion analysis
+- Visualization of ball movement data
+- Combines software with hardware-based problem solving
